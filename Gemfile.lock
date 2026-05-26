@@ -94,6 +94,7 @@ GEM
     pusher-client (0.6.2)
       json
       websocket (~> 1.0)
+    rexml (3.4.4)
     ruby-macho (1.4.0)
     ruby2_keywords (0.0.2)
     thread_safe (0.3.6)
@@ -122,6 +123,7 @@ PLATFORMS
 
 DEPENDENCIES
   cocoapods (~> 1.10)
+  rexml (~> 3.4)
   travis (~> 1.10)
 
 BUNDLED WITH
